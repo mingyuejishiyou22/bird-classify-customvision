@@ -3,10 +3,11 @@
   "Platform": "TensorFlow",
   "Flavor": "TensorFlowLite",
   "ExporterVersion": "2.0",
-  "ExportedDate": "2019-06-14T07:51:00.7947662Z",
-  "IterationId": "f87da675-127d-e911-b83f-6c2b59f4d3b3",
+  "ExportedDate": "2020-12-21T12:26:14.5302107Z",
+  "IterationId": "13d05e9b-ec8e-4d32-b8f8-6b71bf045a55",
   "ModelFileName": "model.tflite",
   "LabelFileName": "labels.txt",
-  "ModelFileSHA1": "7006897fe77fb1289b8b6f8af781fd0c1df1bf2b",
+  "MetadataPropsFileName": "metadata_properties.json",
+  "ModelFileSHA1": "891ea49660628b344bafdf65384868e554af8f6a",
   "SchemaVersion": "1.0"
 }
